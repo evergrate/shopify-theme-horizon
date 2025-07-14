@@ -76,4 +76,8 @@
     -%}
     {% render 'unit-price', price: unit_price, measurement: selected_variant.unit_price_measurement %}
   {%- endif -%}
+
+  {% if shop.taxes_included %}
+    <p class="tax-note">inkl. MwSt.</p>
+  {% endif %}
 </div>
