@@ -172,6 +172,37 @@
     },
     "section_b3zYi3": {
       "type": "section",
+      "blocks": {
+        "text_9KrnTJ": {
+          "type": "text",
+          "name": "t:names.text",
+          "settings": {
+            "text": "<p>Test Abschnitt mit Blogbeiträgen.</p>",
+            "width": "fit-content",
+            "max_width": "normal",
+            "alignment": "left",
+            "type_preset": "rte",
+            "font": "var(--font-body--family)",
+            "font_size": "1rem",
+            "line_height": "normal",
+            "letter_spacing": "normal",
+            "case": "none",
+            "wrap": "pretty",
+            "color": "var(--color-foreground)",
+            "background": false,
+            "background_color": "#00000026",
+            "corner_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "text_9KrnTJ"
+      ],
       "name": "Blog-Beiträge: Ofen- und Grillrezepte",
       "settings": {
         "content_direction": "column",
