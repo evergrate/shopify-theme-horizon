@@ -158,7 +158,7 @@
           "type": "text",
           "name": "t:names.text",
           "settings": {
-            "text": "<p>{{ closest.article.metafields.custom.rezept_zutaten | metafield_tag }}</p>",
+            "text": "{{ closest.article.metafields.custom.rezept_zutaten | metafield_tag }}",
             "width": "fit-content",
             "max_width": "normal",
             "alignment": "left",
@@ -196,7 +196,7 @@
           "type": "text",
           "name": "t:names.text",
           "settings": {
-            "text": "<p>Schwierigkeit: {{ closest.article.metafields.custom.rezept_schwierigkeit.value }}<br/>Portionen: </p>",
+            "text": "<p>Schwierigkeit: {{ closest.article.metafields.custom.rezept_schwierigkeit.value }}<br/>Portionen: {{ closest.article.metafields.custom.rezept_portionen.value }}</p>",
             "width": "fit-content",
             "max_width": "normal",
             "alignment": "left",
