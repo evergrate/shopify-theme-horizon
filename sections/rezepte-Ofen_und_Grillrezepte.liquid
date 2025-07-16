@@ -1,6 +1,22 @@
 {% schema %}
   {
-    "name": "Section name",
-    "settings": []
-  }
+    "name": "Rezepte:Ofenrezepte",
+  "settings": [
+    {
+      "type": "text",
+      "id": "ueberschrift",
+      "label": "Überschrift",
+      "default": "Willkommen Welt!"
+    }
+  ],
+  "presets": [
+    {
+      "name": "Mein Abschnitt"
+    }
+  ]
+}
 {% endschema %}
+
+<div class="mein-abschnitt">
+  <h2>{{ section.settings.ueberschrift }}</h2>
+</div>
