@@ -369,8 +369,8 @@
       "scheme-3030bd8d-9d71-4aa0-85b5-e243d76966e5": {
         "settings": {
           "background": "#e4e4e4",
-          "foreground_heading": "#3369ff",
-          "foreground": "#3369ff",
+          "foreground_heading": "#0000ff",
+          "foreground": "#0000ff",
           "primary": "#000000cf",
           "primary_hover": "#000000",
           "border": "#0000000f",
@@ -408,8 +408,8 @@
       "scheme-afd7623b-820b-48c0-9c9b-27c2c9ad7384": {
         "settings": {
           "background": "#ffffff",
-          "foreground_heading": "#3369ff",
-          "foreground": "#3369ff",
+          "foreground_heading": "#0000ff",
+          "foreground": "#0000ff",
           "primary": "#000000cf",
           "primary_hover": "#000000",
           "border": "#0000000f",
