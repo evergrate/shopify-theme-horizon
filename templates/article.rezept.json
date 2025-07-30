@@ -562,6 +562,7 @@
         "text_ERUt94",
         "text_tbKkr6"
       ],
+      "custom_css": [],
       "name": "Zubereitung",
       "settings": {
         "content_direction": "column",
@@ -569,7 +570,7 @@
         "horizontal_alignment": "flex-start",
         "vertical_alignment": "center",
         "align_baseline": false,
-        "horizontal_alignment_flex_direction_column": "flex-start",
+        "horizontal_alignment_flex_direction_column": "center",
         "vertical_alignment_flex_direction_column": "center",
         "gap": 12,
         "section_width": "page-width",
