@@ -164,7 +164,7 @@
         "button_nAhDzG"
       ],
       "custom_css": [
-        "div {background: #a9c0ff;background: linear-gradient( 0deg, rgba(169, 192, 255, 1) 0%, rgba(255, 255, 255, 1) 100%);"
+        "div {background: #FDF9F0;background: linear-gradient(0deg,rgba(253, 249, 240, 1) 0%, rgba(255, 255, 255, 1) 100%);}"
       ],
       "name": "Tellerreiben",
       "settings": {
