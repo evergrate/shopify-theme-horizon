@@ -637,11 +637,11 @@
       },
       "name": "t:names.products_carousel",
       "settings": {
-        "collection": "tellerreiben",
+        "collection": "test-slider",
         "layout_type": "carousel",
         "carousel_on_mobile": false,
         "max_products": 6,
-        "columns": 2,
+        "columns": 6,
         "mobile_columns": "2",
         "columns_gap": 0,
         "rows_gap": 36,
