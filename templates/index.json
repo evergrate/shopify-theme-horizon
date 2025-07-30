@@ -87,6 +87,220 @@
         "padding-block-end": 48
       }
     },
+    "section_3xPRhq": {
+      "type": "section",
+      "blocks": {
+        "text_qVHk9R": {
+          "type": "text",
+          "name": "t:names.heading",
+          "settings": {
+            "text": "<h2>Tellerreiben</h2>",
+            "width": "fit-content",
+            "max_width": "normal",
+            "alignment": "left",
+            "type_preset": "rte",
+            "font": "var(--font-body--family)",
+            "font_size": "1rem",
+            "line_height": "normal",
+            "letter_spacing": "normal",
+            "case": "none",
+            "wrap": "pretty",
+            "color": "var(--color-foreground)",
+            "background": false,
+            "background_color": "#00000026",
+            "corner_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
+        },
+        "text_pkBeAx": {
+          "type": "text",
+          "name": "t:names.text",
+          "settings": {
+            "text": "<p>Ideal zum Reiben von kleinen Zutaten wie Knoblauch, Ingwer, Muskat, Nüsse, Parmesan, Schokolade und Erdbeeren.</p>",
+            "width": "fit-content",
+            "max_width": "normal",
+            "alignment": "left",
+            "type_preset": "rte",
+            "font": "var(--font-body--family)",
+            "font_size": "1rem",
+            "line_height": "normal",
+            "letter_spacing": "normal",
+            "case": "none",
+            "wrap": "pretty",
+            "color": "var(--color-foreground)",
+            "background": false,
+            "background_color": "#00000026",
+            "corner_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
+        },
+        "button_nAhDzG": {
+          "type": "button",
+          "name": "t:names.button",
+          "settings": {
+            "label": "Alle anzeigen",
+            "link": "shopify://collections/tellerreiben",
+            "open_in_new_tab": false,
+            "style_class": "button",
+            "width": "fit-content",
+            "custom_width": 100,
+            "width_mobile": "fit-content",
+            "custom_width_mobile": 100
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "text_qVHk9R",
+        "text_pkBeAx",
+        "button_nAhDzG"
+      ],
+      "custom_css": [
+        "div {background: #a9c0ff;background: linear-gradient( 0deg, rgba(169, 192, 255, 1) 0%, rgba(255, 255, 255, 1) 100%);"
+      ],
+      "name": "Tellerreiben",
+      "settings": {
+        "content_direction": "column",
+        "vertical_on_mobile": true,
+        "horizontal_alignment": "flex-start",
+        "vertical_alignment": "center",
+        "align_baseline": false,
+        "horizontal_alignment_flex_direction_column": "center",
+        "vertical_alignment_flex_direction_column": "center",
+        "gap": 12,
+        "section_width": "page-width",
+        "section_height": "",
+        "section_height_custom": 50,
+        "color_scheme": "scheme-3030bd8d-9d71-4aa0-85b5-e243d76966e5",
+        "background_media": "none",
+        "video_position": "cover",
+        "background_image_position": "cover",
+        "border": "none",
+        "border_width": 1,
+        "border_opacity": 100,
+        "border_radius": 0,
+        "toggle_overlay": false,
+        "overlay_color": "#00000026",
+        "overlay_style": "solid",
+        "gradient_direction": "to top",
+        "padding-block-start": 10,
+        "padding-block-end": 10
+      }
+    },
+    "hero_DLnGA4": {
+      "type": "hero",
+      "blocks": {
+        "text_KkenM6": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<h1>New arrivals</h1>",
+            "width": "fit-content",
+            "max_width": "narrow",
+            "alignment": "left",
+            "type_preset": "h1",
+            "font": "var(--font-body--family)",
+            "font_size": "1rem",
+            "line_height": "normal",
+            "letter_spacing": "normal",
+            "case": "none",
+            "wrap": "pretty",
+            "color": "var(--color-foreground)",
+            "background": false,
+            "background_color": "#00000026",
+            "corner_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
+        },
+        "text_WNRmMK": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Made with care and unconditionally loved by our customers.</p>",
+            "width": "fit-content",
+            "max_width": "narrow",
+            "alignment": "left",
+            "type_preset": "rte",
+            "font": "var(--font-body--family)",
+            "font_size": "1rem",
+            "line_height": "normal",
+            "letter_spacing": "normal",
+            "case": "none",
+            "wrap": "pretty",
+            "color": "var(--color-foreground)",
+            "background": false,
+            "background_color": "#00000026",
+            "corner_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 32,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
+        },
+        "button_dHHDxQ": {
+          "type": "button",
+          "name": "t:names.button",
+          "disabled": true,
+          "settings": {
+            "label": "Shop Now",
+            "link": "shopify://collections/all",
+            "open_in_new_tab": false,
+            "style_class": "button",
+            "width": "fit-content",
+            "custom_width": 100,
+            "width_mobile": "fit-content",
+            "custom_width_mobile": 100
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "text_KkenM6",
+        "text_WNRmMK",
+        "button_dHHDxQ"
+      ],
+      "name": "t:names.hero",
+      "settings": {
+        "link": "",
+        "open_in_new_tab": false,
+        "media_type_1": "image",
+        "image_1": "shopify://shop_images/evergrate-rezepte-hero-ofen-und-grillrezepte.jpg",
+        "media_type_2": "image",
+        "content_direction": "column",
+        "vertical_on_mobile": true,
+        "horizontal_alignment": "flex-start",
+        "vertical_alignment": "center",
+        "align_baseline": false,
+        "horizontal_alignment_flex_direction_column": "center",
+        "vertical_alignment_flex_direction_column": "center",
+        "gap": 16,
+        "section_width": "page-width",
+        "section_height": "small",
+        "section_height_custom": 50,
+        "color_scheme": "scheme-5",
+        "toggle_overlay": true,
+        "overlay_color": "#00000026",
+        "overlay_style": "gradient",
+        "gradient_direction": "to top",
+        "blurred_reflection": false,
+        "reflection_opacity": 75,
+        "padding-block-start": 40,
+        "padding-block-end": 40
+      }
+    },
     "product_list_qU3bEB": {
       "type": "product-list",
       "blocks": {
@@ -489,6 +703,7 @@
           ]
         }
       },
+      "disabled": true,
       "name": "t:names.editorial",
       "settings": {
         "media_position": "left",
@@ -791,6 +1006,7 @@
           ]
         }
       },
+      "custom_css": [],
       "name": "t:names.products_carousel",
       "settings": {
         "collection": "test-slider",
@@ -807,8 +1023,8 @@
         "horizontal_alignment": "flex-start",
         "gap": 0,
         "color_scheme": "scheme-4",
-        "padding-block-start": 10,
-        "padding-block-end": 10
+        "padding-block-start": 0,
+        "padding-block-end": 0
       }
     },
     "product_list_BtNipq": {
@@ -1271,6 +1487,8 @@
   },
   "order": [
     "hero_jVaWmY",
+    "section_3xPRhq",
+    "hero_DLnGA4",
     "product_list_qU3bEB",
     "media_with_content_XVU7ye",
     "product_list_pGYDWp",
