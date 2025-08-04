@@ -1049,7 +1049,7 @@
           "settings": {
             "product": "{{ closest.product }}",
             "recommendation_type": "related",
-            "layout_type": "grid",
+            "layout_type": "carousel",
             "carousel_on_mobile": true,
             "max_products": 4,
             "columns_gap": 0,
@@ -1057,7 +1057,7 @@
             "icons_style": "arrow",
             "icons_shape": "none",
             "gap": 0,
-            "color_scheme": "",
+            "color_scheme": "scheme-4",
             "padding-block-start": 0,
             "padding-block-end": 0
           },
@@ -1092,8 +1092,8 @@
               "type": "product-card",
               "static": true,
               "settings": {
-                "product": "{{ closest.product }}",
-                "product_card_gap": 16,
+                "product": "",
+                "product_card_gap": 0,
                 "inherit_color_scheme": true,
                 "color_scheme": "",
                 "border": "none",
@@ -1134,7 +1134,7 @@
                     "align_baseline": false,
                     "horizontal_alignment_flex_direction_column": "center",
                     "vertical_alignment_flex_direction_column": "center",
-                    "gap": 4,
+                    "gap": 0,
                     "width": "fill",
                     "custom_width": 100,
                     "width_mobile": "fill",
@@ -1154,10 +1154,10 @@
                     "overlay_color": "#00000026",
                     "overlay_style": "solid",
                     "gradient_direction": "to top",
-                    "padding-block-start": 0,
-                    "padding-block-end": 0,
-                    "padding-inline-start": 0,
-                    "padding-inline-end": 0
+                    "padding-block-start": 10,
+                    "padding-block-end": 10,
+                    "padding-inline-start": 10,
+                    "padding-inline-end": 10
                   },
                   "blocks": {
                     "product_title_dbddAr": {
@@ -1194,7 +1194,7 @@
                         "show_tax_info": false,
                         "type_preset": "",
                         "width": "100%",
-                        "alignment": "left",
+                        "alignment": "center",
                         "font": "var(--font-body--family)",
                         "font_size": "1rem",
                         "line_height": "normal",
