@@ -1264,7 +1264,7 @@
         "product_recommendations_yxgqQQ"
       ],
       "custom_css": [
-        "div > div {background-color: red;}"
+        "div > div {background-color: lightgrey;}"
       ],
       "name": "t:names.custom_section",
       "settings": {
