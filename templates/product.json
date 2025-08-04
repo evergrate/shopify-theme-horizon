@@ -984,7 +984,7 @@
             "case": "none",
             "wrap": "pretty",
             "color": "var(--color-foreground)",
-            "background": true,
+            "background": false,
             "background_color": "#d6d6d6",
             "corner_radius": 0,
             "padding-block-start": 20,
@@ -1010,7 +1010,7 @@
             "case": "none",
             "wrap": "pretty",
             "color": "var(--color-foreground)",
-            "background": true,
+            "background": false,
             "background_color": "#d6d6d6",
             "corner_radius": 0,
             "padding-block-start": 10,
@@ -1264,7 +1264,7 @@
         "product_recommendations_yxgqQQ"
       ],
       "custom_css": [
-        "div > div {background-color: lightgrey;}"
+        "div > div {background-color: green;}"
       ],
       "name": "t:names.custom_section",
       "settings": {
