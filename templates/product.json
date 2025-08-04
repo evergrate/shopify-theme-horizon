@@ -972,7 +972,7 @@
           "type": "text",
           "name": "t:names.heading",
           "settings": {
-            "text": "<h2>New arrivals</h2>",
+            "text": "<h2>Tellerreiben</h2>",
             "width": "100%",
             "max_width": "normal",
             "alignment": "center",
