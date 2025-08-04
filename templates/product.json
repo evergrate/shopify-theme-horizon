@@ -1263,6 +1263,9 @@
         "image_zjdBgy",
         "product_recommendations_yxgqQQ"
       ],
+      "custom_css": [
+        "div {background-color: red;}"
+      ],
       "name": "t:names.custom_section",
       "settings": {
         "content_direction": "column",
@@ -1288,8 +1291,8 @@
         "overlay_color": "#dc1b4f",
         "overlay_style": "solid",
         "gradient_direction": "to top",
-        "padding-block-start": 20,
-        "padding-block-end": 20
+        "padding-block-start": 0,
+        "padding-block-end": 0
       }
     }
   },
