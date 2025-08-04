@@ -1020,6 +1020,21 @@
           },
           "blocks": {}
         },
+        "button_jWXVLH": {
+          "type": "button",
+          "name": "t:names.button",
+          "settings": {
+            "label": "Alle Anzeigen",
+            "link": "shopify://collections/tellerreiben",
+            "open_in_new_tab": false,
+            "style_class": "button",
+            "width": "fit-content",
+            "custom_width": 100,
+            "width_mobile": "fit-content",
+            "custom_width_mobile": 100
+          },
+          "blocks": {}
+        },
         "image_zjdBgy": {
           "type": "image",
           "name": "t:names.image",
@@ -1244,6 +1259,7 @@
       "block_order": [
         "text_XtwCmn",
         "text_hnXpwg",
+        "button_jWXVLH",
         "image_zjdBgy",
         "product_recommendations_yxgqQQ"
       ],
