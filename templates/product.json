@@ -1092,7 +1092,7 @@
               "type": "product-card",
               "static": true,
               "settings": {
-                "product": "",
+                "product": "{{ closest.product }}",
                 "product_card_gap": 0,
                 "inherit_color_scheme": true,
                 "color_scheme": "",
