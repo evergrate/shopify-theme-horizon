@@ -1372,7 +1372,7 @@
         "border": "none",
         "border_width": 0,
         "border_opacity": 100,
-        "border_radius": 50,
+        "border_radius": 15,
         "toggle_overlay": false,
         "overlay_color": "#dc1b4f",
         "overlay_style": "solid",
