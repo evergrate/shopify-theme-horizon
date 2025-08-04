@@ -568,7 +568,7 @@
             "link": "",
             "video_loop": true,
             "video_autoplay": false,
-            "image_position": "cover",
+            "image_position": "contain",
             "video_position": "cover"
           },
           "blocks": {}
@@ -707,8 +707,8 @@
         "section_width": "page-width",
         "extend_media": true,
         "color_scheme": "scheme-3030bd8d-9d71-4aa0-85b5-e243d76966e5",
-        "padding-block-start": 0,
-        "padding-block-end": 0
+        "padding-block-start": 20,
+        "padding-block-end": 20
       }
     },
     "product_list_pGYDWp": {
