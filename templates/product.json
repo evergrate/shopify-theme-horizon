@@ -1284,7 +1284,7 @@
         "border_width": 0,
         "border_opacity": 100,
         "border_radius": 50,
-        "toggle_overlay": true,
+        "toggle_overlay": false,
         "overlay_color": "#dc1b4f",
         "overlay_style": "solid",
         "gradient_direction": "to top",
